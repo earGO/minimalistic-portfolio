@@ -1,10 +1,10 @@
 import React from 'react';
 import './CardSecondary.scss';
 
-const CardSecondary = () => {
+const CardSecondary = ({cardText}) => {
     return (
-        <div>
-            <p>This is a CardSecondary dumb React Component</p>
+        <div className={'card secondary'}>
+            <p>{cardText}</p>
         </div>
 
     )

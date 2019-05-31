@@ -1,0 +1,25 @@
+@import "./colors";
+@import "./containers";
+@import "./variables";
+
+html{
+  height:100%;
+  width:100%;
+  overflow: hidden;
+}
+
+body {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height:100%;
+  width:100%;
+  overflow: hidden;
+  background-color: $main-background-color;
+  color:$main-font-color;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+  "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+  sans-serif;
+}
