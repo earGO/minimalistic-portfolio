@@ -3,12 +3,27 @@
 .App{
   position:absolute;
   display:grid;
-  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-columns: 40vw 15vw 15vw;
   grid-template-rows: 1fr;
   grid-column-gap: 2vw;
+  grid-row-gap: 10vh;
   align-content: stretch;
-  top:15%;
-  left: 15%;
-  width:70%;
-  height:70%;
+  justify-content: stretch;
+  align-items: stretch;
+  top:15vh;
+  left:15vw;
+  width:70vw;
+  height:70vh;
+}
+
+/* For mobile screens   */
+@media screen and (max-width: $media-query-mobile-width) {
+  .App{
+    grid-template-columns: 90vw;
+    grid-template-rows: 38vh 20vh 20vh;
+    grid-row-gap: 2vh;
+    align-content: stretch;
+    top:4vh;
+    left: 5vw;
+  }
 }

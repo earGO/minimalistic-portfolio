@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7e1580f-2d37-4bde-bf53-88206d1420e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Containers/App/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/App/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/CardLarge/CardLarge.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/CardLarge/CardLarge.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/CardLarge/CardLarge.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/CardSecondary/CardSecondary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/CardSecondary/CardSecondary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/CardPrimary/CardPrimary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/CardPrimary/CardPrimary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/CardPrimary/CardPrimary.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/CardPrimary/CardPrimary.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/CardSecondary/CardSecondary.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/CardSecondary/CardSecondary.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/CardTertiary/CardTertiary.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/CardTertiary/CardTertiary.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/CardTertiary/CardTertiary.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/WrapperSecondary/WrapperSecondary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/WrapperSecondary/WrapperSecondary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/WrapperTertiary/WrapperTertiary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/WrapperTertiary/WrapperTertiary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Containers/App/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/App/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/styles/containers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/containers.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/styles/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/variables.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,17 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Containers/App/App.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/CardSecondary/CardSecondary.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="165">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -51,53 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Components/CardPrimary/CardPrimary.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Containers/App/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/WrapperSecondary/WrapperSecondary.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="15" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/CardSecondary/CardSecondary.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/WrapperSecondary/WrapperSecondary.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -105,17 +43,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/common/styles/containers.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="315">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Components/WrapperTertiary/WrapperTertiary.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Components/WrapperSecondary/WrapperSecondary.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+            <state relative-caret-position="165">
+              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="38" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -123,9 +61,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/WrapperTertiary/WrapperTertiary.scss">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Components/WrapperTertiary/WrapperTertiary.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -153,22 +98,22 @@
         <option value="$PROJECT_DIR$/src/Containers/App.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/Components/CardPrimary/CardPrimary.test.js" />
-        <option value="$PROJECT_DIR$/src/Components/CardPrimary/CardPrimary.js" />
-        <option value="$PROJECT_DIR$/src/common/styles/variables.scss" />
-        <option value="$PROJECT_DIR$/src/common/styles/global.scss" />
         <option value="$PROJECT_DIR$/src/common/styles/colors.scss" />
         <option value="$PROJECT_DIR$/src/Components/CardTertiary/CardTertiary.js" />
         <option value="$PROJECT_DIR$/src/Components/CardTertiary/CardTertiary.scss" />
-        <option value="$PROJECT_DIR$/src/Components/CardPrimary/CardPrimary.scss" />
         <option value="$PROJECT_DIR$/src/Components/WrapperSecondary/WrapperSecondary.test.js" />
         <option value="$PROJECT_DIR$/src/Components/WrapperTertiary/WrapperTertiary.test.js" />
         <option value="$PROJECT_DIR$/src/Containers/App/App.js" />
-        <option value="$PROJECT_DIR$/src/Containers/App/App.scss" />
-        <option value="$PROJECT_DIR$/src/common/styles/containers.scss" />
-        <option value="$PROJECT_DIR$/src/Components/CardSecondary/CardSecondary.scss" />
         <option value="$PROJECT_DIR$/src/Components/WrapperSecondary/WrapperSecondary.scss" />
-        <option value="$PROJECT_DIR$/src/Components/WrapperSecondary/WrapperSecondary.js" />
         <option value="$PROJECT_DIR$/src/Components/CardSecondary/CardSecondary.js" />
+        <option value="$PROJECT_DIR$/src/Components/CardSecondary/CardSecondary.scss" />
+        <option value="$PROJECT_DIR$/src/common/styles/global.scss" />
+        <option value="$PROJECT_DIR$/src/common/styles/variables.scss" />
+        <option value="$PROJECT_DIR$/src/Containers/App/App.scss" />
+        <option value="$PROJECT_DIR$/src/Components/CardPrimary/CardPrimary.js" />
+        <option value="$PROJECT_DIR$/src/common/styles/containers.scss" />
+        <option value="$PROJECT_DIR$/src/Components/CardPrimary/CardPrimary.scss" />
+        <option value="$PROJECT_DIR$/src/Components/WrapperSecondary/WrapperSecondary.js" />
         <option value="$PROJECT_DIR$/src/Components/WrapperTertiary/WrapperTertiary.js" />
       </list>
     </option>
@@ -229,14 +174,7 @@
               <item name="minimalistic-portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Components" type="462c0819:PsiDirectoryNode" />
-              <item name="CardSecondary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="minimalistic-portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="minimalistic-portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Components" type="462c0819:PsiDirectoryNode" />
-              <item name="WrapperTertiary" type="462c0819:PsiDirectoryNode" />
+              <item name="WrapperSecondary" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="minimalistic-portfolio" type="b2602c69:ProjectViewProjectNode" />
@@ -315,12 +253,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559339697040</updated>
-      <workItem from="1559339698622" duration="3834000" />
+      <workItem from="1559339698622" duration="6985000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3834000" />
+    <option name="totallyTimeSpent" value="6985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="0" width="1926" height="1050" extended-state="6" />
@@ -392,9 +330,6 @@
     <entry file="file://$PROJECT_DIR$/src/Containers/App.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Containers/App/App.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -427,33 +362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/styles/variables.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/styles/global.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/styles/colors.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/CardPrimary/CardPrimary.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -501,24 +409,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Containers/App/App.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/CardPrimary/CardPrimary.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/Components/WrapperTertiary/WrapperTertiary.scss">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/CardSecondary/CardSecondary.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/styles/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" lean-forward="true" selection-start-column="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/styles/colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/styles/global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -529,15 +450,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/styles/containers.scss">
+    <entry file="file://$PROJECT_DIR$/src/Components/CardPrimary/CardPrimary.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        <state relative-caret-position="90">
+          <caret line="6" column="92" selection-start-line="6" selection-start-column="92" selection-end-line="6" selection-end-column="92" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/WrapperTertiary/WrapperTertiary.scss">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/CardSecondary/CardSecondary.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -549,10 +470,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Containers/App/App.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/styles/containers.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/CardPrimary/CardPrimary.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/WrapperSecondary/WrapperSecondary.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="165">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="38" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -561,8 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/WrapperTertiary/WrapperTertiary.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        <state relative-caret-position="150">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
